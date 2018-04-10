@@ -12,5 +12,4 @@ with instructions on how I can install and run your project,
 as well as any simplifying assumptions and decisions you
 made along the way.
 
-The instructions can be found in README.md under /box_office.
-[README.md](https://github.com/JohnReddyZhang/hw1/blob/master/box_office/README.md)
+The instructions can be found in README.md under /box_office/[README.md](https://github.com/JohnReddyZhang/hw1/blob/master/box_office/README.md)
