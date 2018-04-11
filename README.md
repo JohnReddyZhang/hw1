@@ -15,4 +15,4 @@ made along the way.
 Update
 ---
 
-The instructions can be found in README.md under /box_office/[README.md](https://github.com/JohnReddyZhang/hw1/blob/master/box_office/README.md)
+The instructions can be found in README.md under [/box_office/README.md](https://github.com/JohnReddyZhang/hw1/blob/master/box_office/README.md)
