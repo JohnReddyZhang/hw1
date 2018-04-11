@@ -2,7 +2,7 @@
 
 The application uses "cmd" module to imitate a command line style interaction.
 
-Start the app by `./box_office_agent.py`
+Start the app by `./agent.py`
 
 Help on operation
 ---
